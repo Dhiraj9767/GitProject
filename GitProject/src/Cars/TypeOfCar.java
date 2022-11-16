@@ -10,5 +10,7 @@ public class TypeOfCar {
 		}else {
 			System.out.println("type of car is nexa");
 		}
+		
+		System.out.println("close the programm");
 	}
 }
