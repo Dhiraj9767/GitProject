@@ -18,5 +18,7 @@ public class TypeOfCar {
 		}
 		
 		System.out.println("end the program");
+		
+		System.out.println("end ");
 	}
 }
